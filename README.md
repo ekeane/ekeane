@@ -5,7 +5,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ekeane.ekeane)
 
-<br />
 
 Hi, I'm [Eamonn Keane](http://eamonnkeane.com/), a software developer from Vancouver, BC. I'm currently building fixed income tools at [RBC Capital Markets](https://www.rbccm.com/en/home.page) and mentor web development at [Lighthouse Labs](https://www.lighthouselabs.ca/).
   

@@ -26,8 +26,6 @@ Hi, I'm [Eamonn Keane](http://eamonnkeane.com/), a software developer from Vanco
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br/>
-
 📈 **My Github Stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ekeane&show_icons=true&theme=gotham" alt="ekeane" />

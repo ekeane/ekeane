@@ -1,11 +1,7 @@
-### Hi there 👋🏼
+### Hi there 👋🏼 ![](https://visitor-badge.glitch.me/badge?page_id=ekeane.ekeane)
 <!-- <a href="https://www.linkedin.com/in/eamonn-keane/">
   <img align="left" alt="Eamonn's LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />
 </a> -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=ekeane.ekeane)
-
-
 Hi, I'm [Eamonn Keane](http://eamonnkeane.com/), a software developer from Vancouver, BC. I'm currently building fixed income tools at [RBC Capital Markets](https://www.rbccm.com/en/home.page) and mentor web development students at [Lighthouse Labs](https://www.lighthouselabs.ca/).
   
 - 💼 Looking to connect? You can reach me, [here](mailto:eamonn.keane@outlook.com) :)

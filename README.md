@@ -1,4 +1,5 @@
-### Hi there 👋🏼 ![](https://visitor-badge.glitch.me/badge?page_id=ekeane.ekeane)
+![](https://visitor-badge.glitch.me/badge?page_id=ekeane.ekeane)
+### Hi there 👋🏼 
 <!-- <a href="https://www.linkedin.com/in/eamonn-keane/">
   <img align="left" alt="Eamonn's LinkedIn" width="22px" src="https://i.imgur.com/OQUXwNp.jpeg" />
 </a> -->

@@ -4,7 +4,6 @@
 </a> -->
 Hi, I'm [Eamonn Keane](http://eamonnkeane.com/), a software engineer from Vancouver, BC. I'm currently working at [Microsoft](https://www.bing.com/) on the Bing Multimedia Team and mentor web development students at [Lighthouse Labs](https://www.lighthouselabs.ca/).
   
-- 💼 Looking to connect? You can reach me, [here](mailto:eamonn.keane@outlook.com) :)
 - 💬 Ask me about anything, I'm happy to help!
 
 **Languages and Tools:**  
